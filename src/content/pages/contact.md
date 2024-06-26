@@ -3,7 +3,6 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
+Have a question about organ donation, need more information about our programs, or want to get involved? We are here to help.
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Just send us a message using the form below.
