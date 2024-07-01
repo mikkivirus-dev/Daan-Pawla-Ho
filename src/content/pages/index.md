@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Daan Pawla Ho
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/whatsapp-image-2024-06-29-at-23.18.01_96788f00.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
