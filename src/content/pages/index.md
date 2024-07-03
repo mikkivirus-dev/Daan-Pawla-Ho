@@ -8,5 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+At Daan Pawla Ho, our mission is to save lives and enhance the quality of life through organ donation. We believe that every individual has the power to make a profound impact by choosing to become an organ donor. Together, we can create a future where no one has to wait for the gift of life.
