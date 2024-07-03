@@ -32,8 +32,12 @@ Since our inception, Daan Pawla Ho has:
 
 Our dedicated team is made up of experienced professionals and passionate volunteers. Here are some key members:
 
-* **Arun Wekhende, Founder and CEO**
-* **\[Name], Director of Operations:** \[Brief bio]
+* **Arun Wekhande, Founder and CEO**\
+  Contact: [+91 8975731697](tel:+918975731697)
+* **Mrs. Anagha Arun Wekhande, Founder and CEO** \
+  Contact: [+91 8975731697](tel:+918975731697)
+* **Mrs. Aboli Chinmay Kulkarni, Volunteer**\
+  Contact: [+91 8390400054](tel:+918390400054)
 
 **Join Us**
 
@@ -43,14 +47,8 @@ We believe that everyone has the power to make a difference. Whether you want to
 
 For more information about our work or how you can get involved, please contact us at:
 
-* **Email:** \[email address]
-* **Phone:** \[phone number]
-* **Address:** \[physical address]
-
-Follow us on social media:
-
-* **Facebook:** \[link]
-* **Twitter:** \[link]
-* **Instagram:** \[link]
+* **Email:** info@danpawalhofoundation.org
+* **Phone:** [+917038101119](tel:+917038101119)
+* **Address:** Chanakya Apartment, behind anusaya mangal karyalay, Parsodi, Adhayapak Lay Out, Nagpur, Maharashtra 440022
 
 Thank you for supporting Daan Pawla Ho. Together, we can make a life-saving difference.
