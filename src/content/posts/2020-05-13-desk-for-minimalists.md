@@ -1,54 +1,38 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: " बंदिवानांना उमगले अवयव दानाचे महत्त्व: महिलांच्या सादरीकरणातून
+  मनपरिवर्तन; २५० बंदिवानांना मिळाला अनोखा संदेश"
+slug: /बंदिवानांना-उमगले-अवयव-दानाचे-महत्त्व
+date: 2024-07-08 15:12
+description: मध्यवर्ती कारागृहातील २५० बंदिवानांना अवयव दानाचे महत्त्व पटवून
+  देण्यासाठी ‘दान पावल हो फाउंडेशन’ने जनजागृती कार्यक्रमाचे आयोजन केले.
+  महिलांच्या सादरीकरणातून अवयव दानाचा संदेश देण्यात आला, ज्यामुळे बंदिवानांचे
+  मनपरिवर्तन झाले. या कार्यक्रमामुळे समाजात अवयव दानाबद्दलची जागरूकता वाढली
+  असून, बंदिवानांनी अवयव दानासाठी उत्सुकता दाखवली आहे.
+featuredImage: /assets/event.jpg
 ---
+**नागपूर**: समाजात आई, बहीण, आजी या नात्यांसह परिचारिका, रिसेप्शनिस्ट, अंगणवाडी सेविका अशा विविध पदांच्या मार्फत ‘ती’ आपल्या प्रत्येकाच्या जीवनामध्ये प्रत्यक्ष-अप्रत्यक्षरीत्या बदल घडवून आणत असते. परिवर्तनवादी भूमिकेतील ‘ती’चा सकारात्मक प्रभाव हा मनाला भावणाराच असतो. अशाच प्रयत्नांची प्रचिती मध्यवर्ती कारागृहातील सुमारे २५० बंदिवानांना आली. अवयव दान, देहदानाचे महत्त्व बंदिवानांनी जाणून घेतले असून त्यांचे मनपरिवर्तन करणाऱ्या ज्येष्ठ महिला होत्या, हे विशेष.
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+![Event](/assets/whatsapp-image-2024-06-29-at-22.32.40_ee94dff2.jpg "Event")
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+नागपूर मध्यवर्ती कारागृह आणि ‘दान पावल हो फाउंडेशन’च्या माध्यमातून दीपस्वी युनिटी फाउंडेशन सहयोगीत या भारुडाच्या माध्यमातून जनजागृती या विशेष कार्यक्रमाचे आयोजन करण्यात आले होते. कार्यक्रमाच्या औपचारिक उद्घाटनाला कारागृह अधिक्षक वैभव आगे, तुरुंग अधिकारी काळे, तुरुंग शिक्षक लक्ष्मण साळवे यांच्यासह दान पावले हो फाउंडेशनच्या आणि भारुडाच्या लेखिका अनघा वेखंडे उपस्थित होत्या. समूहातील ज्येष्ठ महिला कलाकार अनघा वेखंडे, नीलिमा देशपांडे, शोभा बावनकर, रेखा भारद्वाज, वनिता मुंगेलवार, वैशाली चरपे, वैशाली जोशी, अबोली कुलकर्णी यांनी भारुड सादर करून अवयवदानाचा संदेश दिला. डॉ. संजय कोलते लिखित व गायलेले गीत बंदिवानांना दाखविण्यात आले. तसेच, भारुडाच्या माध्यमातून अवयव दान, देहदानाबाबत माहिती देण्यात आली. अरुणकुमार वेखंडे यांनी समन्वयक म्हणून जबाबदारी पार पाडली.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+#### आम्ही देखील दान करू शकतो?
 
-## It doesn't look so shiny to me.
+कारागृहातील बंदिवानांसाठी आजवर मनोरंजनासह कायदेविषयक कार्यक्रम पार पडले आहेत. परंतु, अवयव दान या सारख्या विषयावर अन् ते देखील भारुडाच्या माध्यमातून करण्यात आलेली जनजागृती, कारागृहात पहिल्यांदाच असे काही घडून आल्याची भावना तुरुंगाधिकारी काळे यांनी व्यक्त केली. ‘साह्येब, आमी बी अवयव दान करू शकतो का?’ अशी विचारणा आठ ते दहा बंदिवानांकडून अधिकाऱ्यांना करण्यात आली. शिक्षा आणि नियमांची तपासणी करून या इच्छुक बंदिवानांचे देहदान, अवयव दानाचे अर्ज भरून घेतल्या जाणार आहेत.
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+#### अवयव दानाचे महत्त्व आणि त्याचा सामाजिक प्रभाव
 
-![]()
+अवयव दान ही एक अत्यंत महत्वपूर्ण समाजसेवा आहे, ज्यामुळे अनेकांचे जीव वाचू शकतात. अवयव दानाचे महत्त्व समाजात पोहचवण्यासाठी विविध माध्यमांचा वापर होतो. भारुडासारख्या पारंपरिक कलेच्या माध्यमातून अवयव दानाचा संदेश पोहचवण्याचा हा उपक्रम निश्चितच स्तुत्य आहे.
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+#### कार्यक्रमाचे उद्दिष्ट आणि त्याची प्रभावीता
 
-### Daylight and everything.
+‘दान पावल हो फाउंडेशन’ आणि नागपूर मध्यवर्ती कारागृहाच्या संयुक्त विद्यमाने आयोजित या कार्यक्रमाचे मुख्य उद्दिष्ट म्हणजे बंदिवानांना अवयव दानाचे महत्त्व पटवून देणे. या उद्दिष्टाप्रत पोहोचण्यासाठी भारुडाच्या माध्यमातून सादरीकरण करण्यात आले, ज्यामुळे बंदिवानांचे मनपरिवर्तन झाले.
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+#### समाजात अवयव दानाची जागरूकता
 
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
+अवयव दानाच्या महत्त्वाबद्दल समाजात जागरूकता निर्माण करणे अत्यंत आवश्यक आहे. या कार्यक्रमामुळे बंदिवानांनी अवयव दानाचे महत्त्व जाणले व त्यांच्यामध्ये या विषयाबद्दल सकारात्मक विचार निर्माण झाले.
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+#### महिलांची भूमिका आणि त्यांचा प्रभाव
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+या कार्यक्रमात महिलांची भूमिका खूपच महत्वाची होती. अनघा वेखंडे, नीलिमा देशपांडे, शोभा बावनकर आणि इतर महिलांनी आपल्या सादरीकरणातून अवयव दानाचा महत्वाचा संदेश दिला. त्यांच्या कलेच्या माध्यमातून बंदिवानांचे मनपरिवर्तन होण्यास मदत झाली.
