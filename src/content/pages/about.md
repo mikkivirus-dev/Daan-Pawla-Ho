@@ -33,10 +33,10 @@ Since our inception, Daan Pawla Ho has:
 Our dedicated team is made up of experienced professionals and passionate volunteers. Here are some key members:
 
 * **Arun Wekhande, Founder and CEO**\
+  Contact: [+91 7038101119](tel:+917038101119)
+* **Mrs. Anagha Arun Wekhande, Director** \
   Contact: [+91 8975731697](tel:+918975731697)
-* **Mrs. Anagha Arun Wekhande, Founder and CEO** \
-  Contact: [+91 8975731697](tel:+918975731697)
-* **Mrs. Aboli Chinmay Kulkarni, Volunteer**\
+* **Mrs. Aboli Chinmay Kulkarni, Director**\
   Contact: [+91 8390400054](tel:+918390400054)
 
 **Join Us**
